@@ -9,6 +9,7 @@ Zautomatyzowane zadania z Librusa na Discordzie
 
 # Instrukcja:
 - Podmień wartości pliku sekrecik.py na swoje dane logowania do Librusa.
+- Włącz skrypt pierwszyraz.py, potem możesz go usunąć :)
 - Załóż konto bota Discord na stronie discordapp.com w zakładce dla developerów.
 - Zaznacz permisje: pisania / czytania / odpowiedzi / oznaczania / wyświetlania kanałów.
 - Zaznacz bota jako bot zwykły.
