@@ -1,0 +1,2 @@
+user = "logindosynergii"
+passy = "haslo"
